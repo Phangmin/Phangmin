@@ -32,8 +32,8 @@
 | **[Insite](https://github.com/Phangmin/phangport)** | 서울 카페 상권 비교·추천 빅데이터 서비스 | PM & Front-end & UI·UX 총괄 | 🥉 우수상 |
 | **[NAMUH](https://github.com/Phangmin/phangport)** | 소아암 환아를 위한 AIoT 휴머노이드 인터페이스 | Front-end & UI·UX 총괄 | 🥇 최우수상 |
 | **[서재의 온도](https://github.com/Phangmin/phangport)** | AI 기반 독서 경험 기록·공유 플랫폼 | Full-Stack & UI·UX 총괄 | 🥈 우수상 |
-| **[Lin. Book](https://github.com/Phangmin/phangport)** | 동아리 공동 계좌 기반 회계 관리 플랫폼 | Front-end & UI·UX 총괄 | — |
-| **[My Health Calendar](https://github.com/Phangmin/phangport)** | 건강 기록을 더 쉽게 남기는 헬스케어 캘린더 | 서비스 기획 | — |
+| **[Lin. Book](https://github.com/Phangmin/phangport)** | 동아리 공동 계좌 기반 회계 관리 플랫폼 | Front-end & UI·UX 총괄 |  |
+| **[My Health Calendar](https://github.com/Phangmin/phangport)** | 건강 기록을 더 쉽게 남기는 헬스케어 캘린더 | 서비스 기획 |  |
 
 > 각 프로젝트의 상세 내용은 [웹페이지](https://phangport.vercel.app/projects/) 혹은 프로젝트명을 클릭하면 해당 Repository로 이동합니다.
 
@@ -57,9 +57,9 @@
 
 ### 💼 Careers
 
-| 근무기간 | 조직명 | 부서 | 직위/직책 |
+| 근무기간 | 근무처 | 부서 | 직위/직책 |
 |---|---|---|---|
-| 2026.03.03 ~ 재직 중 | 부산지방항공청 | 공항안전과 | 청년인턴 |
+| 2026.03.03 ~ | 부산지방항공청 | 공항안전과 | 청년인턴 |
 
 ---
 
@@ -68,9 +68,11 @@
 | 기관 및 내용 | 기간 | 비고 |
 |---|---|---|
 | 삼성 청년 SW·AI 아카데미 | 2025.01.07 ~ 2025.12.31 | 13기 자치회 활동 |
+| 2025 Shinhan Hackthon(with SSAFY) | 2025.08.13 ~ 2025.08.31 | Lin.Book PJT |
+| 한국철도공사 제3기 고객평가단 | 2020.08.01 ~ 2021.06.30 |  |
 | Make-A-Wish Dong-A | 2020.05.01 ~ 2021.02.28 | 동아리 회장(총괄) |
 | Coffee Heaven | 2020.02.01 ~ 2021.02.28 | 동아리 회장(총괄) |
-| 동아대학교 전자공학과 졸업 | 학력 | 항공비즈니스 연계전공 |
+| 동아대학교 전자공학과 졸업 |  | 항공비즈니스 연계전공 |
 
 ---
 
