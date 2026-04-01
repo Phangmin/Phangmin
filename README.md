@@ -36,7 +36,8 @@
 | **[Stalk](https://github.com/Phangmin/stalk/)** | WebRTC 기반 실시간 주식 상담 플랫폼 | Front-end & UI·UX 총괄 | 🥈 우수상 |
 | **[서재의 온도](https://github.com/Phangmin/the-temperature-of-the-library/)** | AI 기반 독서 경험 기록·공유 플랫폼 | Full-Stack & UI·UX 총괄 | 🥈 우수상 |
 
-> 각 프로젝트의 상세 내용은 프로젝트명을 클릭하면 [웹페이지](https://phangport.vercel.app/projects/) 혹은 해당 Repository로 이동합니다.
+> 각 프로젝트의 상세 내용은 프로젝트명을 클릭하면 해당 Repository로 이동합니다.
+> 또한, [웹 포트폴리오](https://phangport.com/)에서도 확인하실 수 있습니다.
 
 ---
 
