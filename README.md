@@ -28,12 +28,13 @@
 
 | 프로젝트명 | 프로젝트 소개 | 역할 | 수상 |
 |---|---|---|---|
-| **[Stalk](https://github.com/Phangmin/stalk/)** | WebRTC 기반 실시간 주식 상담 플랫폼 | Front-end & UI·UX 총괄 | 🥈 우수상 |
-| **[Insite](https://github.com/Phangmin/Insite/)** | 서울 카페 상권 비교·추천 빅데이터 서비스 | PM & Front-end & UI·UX 총괄 | 🥉 우수상 |
-| **[NAMUH](https://github.com/Phangmin/NAMUH/)** | 소아암 환아를 위한 AIoT 휴머노이드 인터페이스 | Front-end & UI·UX 총괄 | 🥇 최우수상 |
-| **[서재의 온도](https://github.com/Phangmin/the-temperature-of-the-library/)** | AI 기반 독서 경험 기록·공유 플랫폼 | Full-Stack & UI·UX 총괄 | 🥈 우수상 |
-| **[Lin. Book](https://github.com/Phangmin/LinBook/)** | 동아리 공동 계좌 기반 회계 관리 플랫폼 | Front-end & UI·UX 총괄 |  |
+| **[Air-PASS](https://github.com/Phangmin/Air-PASS/)** | 부산지방항공청 행정처분 업무 프로그램 | 기획 및 Full-Stack |  |
 | **[My Health Calendar](https://phangport.vercel.app)** | 건강 기록을 더 쉽게 남기는 헬스케어 캘린더 | 서비스 기획 |  |
+| **[NAMUH](https://github.com/Phangmin/NAMUH/)** | 소아암 환아를 위한 AIoT 휴머노이드 인터페이스 | Front-end & UI·UX 총괄 | 🥇 최우수상 |
+| **[Lin. Book](https://github.com/Phangmin/LinBook/)** | 동아리 공동 계좌 기반 회계 관리 플랫폼 | Front-end & UI·UX 총괄 |  |
+| **[Insite](https://github.com/Phangmin/Insite/)** | 서울 카페 상권 비교·추천 빅데이터 서비스 | PM & Front-end & UI·UX 총괄 | 🥉 우수상 |
+| **[Stalk](https://github.com/Phangmin/stalk/)** | WebRTC 기반 실시간 주식 상담 플랫폼 | Front-end & UI·UX 총괄 | 🥈 우수상 |
+| **[서재의 온도](https://github.com/Phangmin/the-temperature-of-the-library/)** | AI 기반 독서 경험 기록·공유 플랫폼 | Full-Stack & UI·UX 총괄 | 🥈 우수상 |
 
 > 각 프로젝트의 상세 내용은 [웹페이지](https://phangport.vercel.app/projects/) 혹은 프로젝트명을 클릭하면 해당 Repository로 이동합니다.
 
